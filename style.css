@@ -29,3 +29,60 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 color: rgb(56, 39, 18);
 
 }
+
+
+body{
+
+   background-image: url(img/patron-fisuras-estrellas-rosas-fondo-blanco_197792-3250.avif)
+}
+
+.F{
+
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: royalblue;
+
+}
+
+.P{
+
+    color: darkmagenta;
+}
+
+.D{
+
+font-family: cursive;
+text-align: center;
+background-color: mediumslateblue;
+color: aliceblue;
+margin: 50px 0; 
+   
+}
+
+.Batido{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: mediumorchid;
+}
+
+.Cafe{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: sienna;
+}
+
+.Comentario{
+
+    color: honeydew;
+    font-family: 'Playfair Display', serif; 
+   background-color: hotpink;
+    text-align: center; 
+    margin: 50px 0; 
+
+}
+
+.Pa{
+
+color: rgb(139, 29, 81);
+background-color: rgb(235, 160, 160);
+display: inline-block;
+    font-family: monospace;
+
+}
